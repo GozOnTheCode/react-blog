@@ -1,0 +1,29 @@
+@font-face {
+  font-family: VietnamBold;
+  src: local('VietnamBold'), url(../public/font/BeVietnamPro-Bold.ttf) format('woff');
+}
+
+@font-face {
+  font-family: VietnamRegular;
+  src: local('VietnamRegular'), url(../public/font/BeVietnamPro-SemiBold.ttf) format('woff');
+}
+
+@font-face {
+  font-family: VietnamThin;
+  src: local('VietnamThin'), url(../public/font/BeVietnamPro-Light.ttf) format('woff');
+}
+
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}

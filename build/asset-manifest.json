@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/static/css/main.75e54fe8.css",
+    "main.js": "/static/js/main.ac4c4918.js",
+    "static/js/787.9e0c1f39.chunk.js": "/static/js/787.9e0c1f39.chunk.js",
+    "static/media/cardImage.webp": "/static/media/cardImage.d35b63b12656eb07115d.webp",
+    "static/media/tunnel.jpg": "/static/media/tunnel.0dcdf384bca5b6a2944c.jpg",
+    "static/media/BeVietnamPro-Bold.ttf": "/static/media/BeVietnamPro-Bold.b019ee3a96e91ee283ec.ttf",
+    "static/media/BeVietnamPro-SemiBold.ttf": "/static/media/BeVietnamPro-SemiBold.e756d8f2bdf42928a6e5.ttf",
+    "static/media/BeVietnamPro-Light.ttf": "/static/media/BeVietnamPro-Light.21887b0aa5de8736bac5.ttf",
+    "static/media/ordi.webp": "/static/media/ordi.1d9b1d53720c4c2a921c.webp",
+    "static/media/pink.webp": "/static/media/pink.b3c67a06efbd6f88e35b.webp",
+    "static/media/gradient.webp": "/static/media/gradient.2fbbd2ee17699f5d636a.webp",
+    "static/media/dribble.svg": "/static/media/dribble.5373b58046e5666e47bbdac2a1e45f04.svg",
+    "static/media/twitter.svg": "/static/media/twitter.4d3c0223c12dd02d205136e650d1d738.svg",
+    "index.html": "/index.html",
+    "static/media/logo.svg": "/static/media/logo.43b17dc93744d1e2fb27ee3042453f18.svg",
+    "static/media/instagram.svg": "/static/media/instagram.bf4d7f6f4a038491ccf7617f7f112471.svg",
+    "main.75e54fe8.css.map": "/static/css/main.75e54fe8.css.map",
+    "main.ac4c4918.js.map": "/static/js/main.ac4c4918.js.map",
+    "787.9e0c1f39.chunk.js.map": "/static/js/787.9e0c1f39.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.75e54fe8.css",
+    "static/js/main.ac4c4918.js"
+  ]
+}
